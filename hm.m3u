@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0, asahi
 http://mov3.co/en/tvasahi
 #EXTINF:0, asahi2
