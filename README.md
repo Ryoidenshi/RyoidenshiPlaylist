@@ -1,5 +1,3 @@
-# RyoidenshiPlaylist
-playlist
 #EXTM3U
 #EXTINF:0, asahi
 http://mov3.co/en/tvasahi
